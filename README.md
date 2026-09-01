@@ -2,9 +2,9 @@
 
 Public release archive for MultiBot installers and update metadata.
 
-- [MultiBot Desktop source and releases](https://github.com/E4B-labs/multibot)
-- [MultiBot Mobile source](https://github.com/E4B-labs/multibot2)
-- [Latest release in this archive](https://github.com/E4B-labs/multibot-releases/releases/latest)
+- [MultiBot Desktop source and server](https://github.com/E4B-labs/multibot-desktop)
+- [MultiBot Mobile source](https://github.com/E4B-labs/multibot-mobile)
+- [Latest release in this archive](https://github.com/E4B-labs/multibot-desktop-releases/releases/latest)
 
 ## Downloading
 
