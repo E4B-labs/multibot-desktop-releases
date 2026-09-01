@@ -20,6 +20,10 @@ back to the corresponding source commit.
 Release files must not contain credentials, host addresses, user data, debug
 logs, or local configuration.
 
+## Contributors
+
+- [SlafyGH](https://github.com/SlafyGH)
+
 ## License
 
 The repository contains distribution artifacts. Refer to the source project
